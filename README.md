@@ -1,2 +1,3 @@
 # leetocode-hugo
-leetcode solutions for every excercise 
+solved:
+- Two-Sum (easy)
