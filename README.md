@@ -1,3 +1,3 @@
-# leetocode-hugo
+# leetcode-hugo
 solved:
 - Two-Sum (easy)
